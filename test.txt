@@ -1,0 +1,14 @@
+Game Statistics
+
+[Starting Balance, Current Balance]:[50, 50]
+
+Round Details
+
+copper
+($3) | gold
+($15) | copper
+($3) - Cost: $15 |Payback: $21 | Current Balance: $56
+lead
+($0) | copper
+($3) | silver
+($6) - Cost: $15 |Payback: $9 | Current Balance: $50

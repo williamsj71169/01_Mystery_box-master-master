@@ -1,0 +1,10 @@
+Game Statistics
+
+[Starting Balance, Current Balance]:[22, 10]
+
+Round Details
+
+lead
+($0) | copper
+($3) | lead
+($0) - Cost: $15 |Payback: $3 | Current Balance: $10
